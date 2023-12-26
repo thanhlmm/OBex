@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { FC, ReactNode } from "react";
-import Image from "next/image";
+// import Image from "next/image";
 import Header from "../common/Header";
 
 type HeaderLayoutProps = {
